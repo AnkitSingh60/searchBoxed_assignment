@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Archy",
+      "email": "acollinwood0@delicious.com",
+      "city": "Yongxing"
+    },
+    {
+      "id": 2,
+      "name": "Alvera",
+      "email": "achaman1@princeton.edu",
+      "city": "Shanjiang"
+    },
+    {
+      "id": 3,
+      "name": "Lisette",
+      "email": "loglesbee2@gizmodo.com",
+      "city": "Longquan"
+    },
+    {
+      "id": 4,
+      "name": "Margi",
+      "email": "mschoenrock3@elpais.com",
+      "city": "Dongping"
+    },
+    {
+      "id": 5,
+      "name": "Tracey",
+      "email": "tfishlock4@tinypic.com",
+      "city": "Mosteiros"
+    },
+    {
+      "id": 6,
+      "name": "Georgia",
+      "email": "gtremellier5@vimeo.com",
+      "city": "Mao"
+    },
+    {
+      "id": 7,
+      "name": "Farlee",
+      "email": "fhansed6@bloomberg.com",
+      "city": "Omigawa"
+    },
+    {
+      "id": 8,
+      "name": "Jakie",
+      "email": "jvalenti7@amazon.co.uk",
+      "city": "Sayansk"
+    },
+    {
+      "id": 9,
+      "name": "Carlin",
+      "email": "ckelk8@epa.gov",
+      "city": "Kauswagan"
+    },
+    {
+      "id": 10,
+      "name": "Coral",
+      "email": "cscraggs9@foxnews.com",
+      "city": "Espera Feliz"
+    }
+  ]
+}
